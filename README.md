@@ -16,3 +16,10 @@
 3. 文档导出Agent
 
 ## 快速启动
+pip install -r requirements.txt
+python main.py
+
+## 使用流程
+1. 上传需求文档
+2. 点击生成测试用例
+3. 导出Excel测试用例
